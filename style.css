@@ -7,9 +7,13 @@
 }
 
 body {
-	background-color:whitesmoke;
+    background-color:whitesmoke;
     text-align:center;
     height:100%;
+}
+
+img {
+    border-radius:10px;
 }
 
 nav {
